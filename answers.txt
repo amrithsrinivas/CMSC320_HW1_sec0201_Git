@@ -6,3 +6,5 @@ Answer: It could be used in political contexts, to find out how policies actuall
 
 Q3: What is the difference between Merging and Rebasing?
 Answer: it overwrites the history instead of merging/appending the outputs together.
+Q4: What are you looking forward to this semester?
+Answer: I'd like to learn more about training ML models so I can try to build models for trading.
