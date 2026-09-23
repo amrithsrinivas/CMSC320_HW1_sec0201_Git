@@ -3,3 +3,6 @@ Answer: It is a great tool for versioning your code and collaborating with other
 
 Q2: What field could data science be applied to? Give an Example.
 Answer: It could be used in political contexts, to find out how policies actually affect the population in other countries before being passed locally
+
+Q3: What is the difference between Merging and Rebasing?
+Answer: it overwrites the history instead of merging/appending the outputs together.
